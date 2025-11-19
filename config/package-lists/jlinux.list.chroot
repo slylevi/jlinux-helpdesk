@@ -1,0 +1,32 @@
+# Desktop environment
+task-xfce-desktop
+
+# Developer tools
+git 
+vim
+neovim
+build-essential
+python3
+python3-pip
+
+# Sysadmin tools
+htop
+neofetch
+tmux
+curl
+wget
+net-tools
+tcpdump
+nmap
+traceroute
+dnsutils
+openssh-client
+
+# GUI utilities
+firefox-esr
+filezilla
+
+# Optional: security / forensic tools
+wireshark
+iperf3
+
